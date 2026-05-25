@@ -12,3 +12,4 @@ C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\refint\Ch
 C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.pdb
 C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.genruntimeconfig.cache
 C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\ref\CheckPipeline.dll
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.sourcelink.json
