@@ -1,0 +1,14 @@
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\bin\Debug\net10.0\CheckPipeline.exe
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\bin\Debug\net10.0\CheckPipeline.deps.json
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\bin\Debug\net10.0\CheckPipeline.runtimeconfig.json
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\bin\Debug\net10.0\CheckPipeline.dll
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\bin\Debug\net10.0\CheckPipeline.pdb
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.AssemblyInfoInputs.cache
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.AssemblyInfo.cs
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.csproj.CoreCompileInputs.cache
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.dll
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\refint\CheckPipeline.dll
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.pdb
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\CheckPipeline.genruntimeconfig.cache
+C:\Users\351353\Documents\DemoPipeline\CheckPipeline\obj\Debug\net10.0\ref\CheckPipeline.dll
