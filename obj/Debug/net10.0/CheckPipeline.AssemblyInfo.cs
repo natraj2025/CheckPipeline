@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckPipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb9577be34aa97a955c83ab56037fc2a732d827f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckPipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckPipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
